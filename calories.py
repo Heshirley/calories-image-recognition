@@ -4,7 +4,7 @@ from fastai.vision.all import *
 import pathlib
 import sys
 
-st.secrets["DEEPSEEK_API_key"] == "sk-d4181a0a4f12414d8a96935bf42ee87f"
+
 # 根据不同的操作系统设置正确的pathlib.Path
 if sys.platform == "win32":
     temp = pathlib.PosixPath
