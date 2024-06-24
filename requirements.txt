@@ -118,12 +118,12 @@ nltk==3.8.1
 notebook==6.5.2
 notebook_shim==0.2.2
 numexpr==2.8.4
-numpy==1.23.5
+numpy==1.25.2
 open-interpreter==0.3.1
 openai==1.33.0
 openpyxl==3.0.10
 packaging==22.0
-pandas==1.5.2
+pandas==2.2.2
 pandocfilters==1.5.0
 parso==0.8.3
 peewee==3.17.5
@@ -147,7 +147,7 @@ pydeck==0.9.1
 pyecharts==1.9.1
 pygame==2.5.2
 Pygments==2.13.0
-pyLDAvis==3.3.1
+pyLDAvis==3.4.1
 Pympler==1.0.1
 pyparsing==3.0.9
 pyreadline3==3.4.1
@@ -185,6 +185,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 stack-data==0.6.2
+
 sympy==1.12.1
 tbb==2021.12.0
 tenacity==8.3.0
@@ -219,6 +220,7 @@ webencodings==0.5.1
 websocket-client==1.4.2
 wget==3.2
 widgetsnbextension==4.0.11
+windows-curses==2.3.3
 wordcloud==1.8.2.2
 wrapt==1.16.0
 xlrd==2.0.1
