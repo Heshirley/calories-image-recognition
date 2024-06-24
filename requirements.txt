@@ -13,7 +13,7 @@ asttokens==2.2.1
 async-timeout==4.0.3
 attrs==22.1.0
 backcall==0.2.0
-beautifulsoup4==4.11.1
+
 bleach==5.0.1
 blessed==1.20.0
 blinker==1.8.2
@@ -54,8 +54,7 @@ frozendict==2.4.4
 frozenlist==1.4.1
 fsspec==2024.6.0
 funcy==1.17
-future==0.18.2
-gensim==4.2.0
+
 git-python==1.0.3
 gitdb==4.0.11
 GitPython==3.1.43
@@ -76,7 +75,7 @@ ipython-genutils==0.2.0
 ipywidgets==8.0.3
 isoduration==20.11.0
 jedi==0.18.2
-jieba==0.42.1
+
 Jinja2==3.1.2
 jinxed==1.2.1
 joblib==1.2.0
@@ -119,7 +118,7 @@ notebook==6.5.2
 notebook_shim==0.2.2
 numexpr==2.8.4
 numpy==1.25.2
-open-interpreter==0.3.1
+
 openai==1.33.0
 openpyxl==3.0.10
 packaging==22.0
@@ -218,9 +217,9 @@ weasel==0.4.1
 webcolors==1.12
 webencodings==0.5.1
 websocket-client==1.4.2
-wget==3.2
+
 widgetsnbextension==4.0.11
-wordcloud==1.8.2.2
+
 wrapt==1.16.0
 xlrd==2.0.1
 xmod==1.8.1
